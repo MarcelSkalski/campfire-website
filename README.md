@@ -2,6 +2,10 @@
 
 This project is a promotional website for the fictitious product, the Campfire Pro Max. The design replicates the style of Apple's website for the iPhone 15 Pro. 
 
+## Live Demo
+
+Check out the live demo [here](https://campfire-pro-max.netlify.app)
+
 ## Features
 
 * **Responsive Design:** The website is fully responsive and works on all devices. 
